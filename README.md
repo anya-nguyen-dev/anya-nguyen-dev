@@ -1,4 +1,5 @@
-# Hello, I am *Anya* 👩‍💻 
+# Hello, I am Anya 👩‍💻
+### *and here is something about me...*
 
 Looking at how technology is evolving and how different fields embrace innovations, I am excited about all the possibilities I can explore. It fuels my curiosity to learn more and keeps me humble.
 
