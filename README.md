@@ -1,7 +1,7 @@
 # Hello, I am Anya :woman_technologist:
 ### *and here is something about me...*
 
-Looking at how technology is evolving and how different fields embrace innovations, I am excited about all the possibilities I can explore. It fuels my curiosity to learn more and keeps me humble.
+Looking at how technology is evolving and how different fields embrace innovations, I am excited about all interesting projects I can explore and contibute. It fuels my curiosity to learn more and keeps me humble.
 
 As a developer, I like to apply the KISS design principle in every project. Following the “Keep it simple stupid” strategy helps in developing a great solution that can be easily understood by users and other developers. I also take adaptability and scalability into consideration.
 
