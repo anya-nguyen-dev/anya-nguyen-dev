@@ -1,13 +1,15 @@
 # Hello, I am Anya :woman_technologist:
 ### *and here is something about me...*
 
-Looking at how technology is evolving and how different fields embrace innovations, I am excited about all interesting projects I can explore and contibute. It fuels my curiosity to learn more and keeps me humble.
+🛫Years ago I took a risk and left my home country and my parent’s house to build my own life. I moved to a new country where I didn’t know anyone, to pursue a career I wasn’t sure I would like. It was the best decision I made for myself.
 
-As a developer, I like to apply the KISS design principle in every project. Following the “Keep it simple stupid” strategy helps in developing a great solution that can be easily understood by users and other developers. I also take adaptability and scalability into consideration.
+👩‍🎓📚When I was studying for my new career I learned that my love for solving puzzles can be useful in my profession. My passion for travelling and exploring new places and cultures taught me to think out of the box and be flexible.
 
-My past experiences taught me how to work with clients and determine their goals. Throughout the project timeline, I engaged in creative and administrative aspects of product development.
+👩‍💻I graduated in 2017 and started my career journey. I worked and learned how to work with clients, and how to manage projects. I learned design techniques and how to use design software to create final products. I worked with tools like Wordpress, shopify, wix, Squarespace, Salesforce, Mailchimp and Adobe. My tech stack includes HTML5, CSS, JavaScript, PHP, liquid and AMPscript.
 
-Over the years, my work helped me grow my potential and explore new perspectives. All in all, I enjoy creating valuable products that are focused on user experience.
+🧘‍♀️Same way I am enthusiastic about self-care to make myself feel better I am motivated to continue learning and improve as a professional.
+
+Let’s connect and support each other👍
 
 Would love to connect with you on [🔗LinkedIn](https://www.linkedin.com/in/nguyenanya/).
 
