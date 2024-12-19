@@ -9,9 +9,7 @@
 
 🧘‍♀️Same way I am enthusiastic about self-care to make myself feel better I am motivated to continue learning and improve as a professional.
 
-Let’s connect and support each other👍
-
-Would love to connect with you on [🔗LinkedIn](https://www.linkedin.com/in/nguyenanya/).
+Let’s connect and support each other👍 [🔗LinkedIn](https://www.linkedin.com/in/nguyenanya/).
 
 <!--
 **anya-nguyen-dev/anya-nguyen-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
