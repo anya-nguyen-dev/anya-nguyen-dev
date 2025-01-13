@@ -9,7 +9,7 @@
 
 🧘‍♀️ Just as I prioritize self-care to feel my best, I am equally passionate about continuous learning and professional growth.
 
-Let’s connect, collaborate, and support each other on this journey! 👍 [🔗LinkedIn](https://www.linkedin.com/in/nguyenanya/).
+Let’s connect, collaborate, and support each other on this journey! 👍 [🔗LinkedIn](https://www.linkedin.com/in/nguyen-anya/).
 
 <!--
 **anya-nguyen-dev/anya-nguyen-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
